@@ -299,6 +299,7 @@ export default function MindMap() {
               count={Math.ceil(data.length / pageSize)}
               page={page}
               onChange={handlePageChange}
+              color="primary"
             />
           </Stack>
         </Paper>

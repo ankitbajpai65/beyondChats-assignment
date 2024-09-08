@@ -191,6 +191,7 @@ export default function Navbar() {
               style={{
                 height: "2.5rem",
                 borderRadius: "50%",
+                border:"3px solid var(--primary)"
               }}
             />
           </Box>
