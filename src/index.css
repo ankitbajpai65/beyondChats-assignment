@@ -1,0 +1,9 @@
+:root {
+  --primary: #2872fa;
+  --primary-light: #e3f2ff;
+  --secondary: #fa2871;
+}
+
+input {
+  font-size: 1rem;
+}
